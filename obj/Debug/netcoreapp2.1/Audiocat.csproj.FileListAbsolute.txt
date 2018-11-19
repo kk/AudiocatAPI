@@ -1,0 +1,14 @@
+C:\Users\asdf\Desktop\Audiocat\Audiocat\bin\Debug\netcoreapp2.1\Audiocat.deps.json
+C:\Users\asdf\Desktop\Audiocat\Audiocat\bin\Debug\netcoreapp2.1\Audiocat.runtimeconfig.json
+C:\Users\asdf\Desktop\Audiocat\Audiocat\bin\Debug\netcoreapp2.1\Audiocat.runtimeconfig.dev.json
+C:\Users\asdf\Desktop\Audiocat\Audiocat\bin\Debug\netcoreapp2.1\Audiocat.dll
+C:\Users\asdf\Desktop\Audiocat\Audiocat\obj\Debug\netcoreapp2.1\Audiocat.csprojAssemblyReference.cache
+C:\Users\asdf\Desktop\Audiocat\Audiocat\obj\Debug\netcoreapp2.1\Audiocat.csproj.CoreCompileInputs.cache
+C:\Users\asdf\Desktop\Audiocat\Audiocat\obj\Debug\netcoreapp2.1\Audiocat.RazorAssemblyInfo.cache
+C:\Users\asdf\Desktop\Audiocat\Audiocat\obj\Debug\netcoreapp2.1\Audiocat.RazorAssemblyInfo.cs
+C:\Users\asdf\Desktop\Audiocat\Audiocat\obj\Debug\netcoreapp2.1\Audiocat.AssemblyInfoInputs.cache
+C:\Users\asdf\Desktop\Audiocat\Audiocat\obj\Debug\netcoreapp2.1\Audiocat.AssemblyInfo.cs
+C:\Users\asdf\Desktop\Audiocat\Audiocat\obj\Debug\netcoreapp2.1\Audiocat.RazorTargetAssemblyInfo.cache
+C:\Users\asdf\Desktop\Audiocat\Audiocat\bin\Debug\netcoreapp2.1\Audiocat.pdb
+C:\Users\asdf\Desktop\Audiocat\Audiocat\obj\Debug\netcoreapp2.1\Audiocat.dll
+C:\Users\asdf\Desktop\Audiocat\Audiocat\obj\Debug\netcoreapp2.1\Audiocat.pdb
