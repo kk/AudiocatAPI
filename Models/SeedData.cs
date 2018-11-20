@@ -26,6 +26,18 @@ namespace Audiocat.Models
                         Title = "Cool sounds",
                         Tag = "Cool",
                         Timestamp = "07-10-18 4:20T18:25:43.511Z",
+                    },
+                    new AudioItem
+                    {
+                        Title = "Good music",
+                        Tag = "Nice",
+                        Timestamp = "07-11-18 4:20T18:25:43.511Z",
+                    },
+                    new AudioItem
+                    {
+                        Title = "Coolest hits 2018",
+                        Tag = "Kool",
+                        Timestamp = "08-11-18 4:20T18:25:43.511Z",
                     }
 
 
