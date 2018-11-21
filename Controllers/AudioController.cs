@@ -117,19 +117,6 @@ namespace Audiocat.Controllers
             return Ok(audioItem);
         }
 
-        // GET: api/Meme/Tags
-        [Route("tags")]
-        [HttpGet]
-        public async Task<List<string>> GetTags()
-        {
-            var tags = (from a in _context.AudioItem
-                         select a.Tag).Distinct();
-
-            var returned = await tags.ToListAsync();
-
-            return returned;
-        }
-
         private bool AudioItemExists(int id)
         {
             return _context.AudioItem.Any(e => e.Id == id);

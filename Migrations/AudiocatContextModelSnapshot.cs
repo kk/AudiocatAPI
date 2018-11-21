@@ -20,6 +20,10 @@ namespace Audiocat.Migrations
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd();
 
+                    b.Property<string>("Author");
+
+                    b.Property<string>("File");
+
                     b.Property<string>("Tag");
 
                     b.Property<string>("Timestamp");
