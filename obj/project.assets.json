@@ -12985,11 +12985,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asdf\\Desktop\\AudiocatUpdated\\Audiocat\\Audiocat.csproj",
+      "projectUniqueName": "C:\\Users\\asdf\\Desktop\\Audiocat\\Audiocat\\Audiocat.csproj",
       "projectName": "Audiocat",
-      "projectPath": "C:\\Users\\asdf\\Desktop\\AudiocatUpdated\\Audiocat\\Audiocat.csproj",
+      "projectPath": "C:\\Users\\asdf\\Desktop\\Audiocat\\Audiocat\\Audiocat.csproj",
       "packagesPath": "C:\\Users\\asdf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asdf\\Desktop\\AudiocatUpdated\\Audiocat\\obj\\",
+      "outputPath": "C:\\Users\\asdf\\Desktop\\Audiocat\\Audiocat\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
