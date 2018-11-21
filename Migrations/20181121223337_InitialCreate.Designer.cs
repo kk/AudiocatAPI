@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Audiocat.Migrations
 {
     [DbContext(typeof(AudiocatContext))]
-    [Migration("20181121105006_InitialCreate")]
+    [Migration("20181121223337_InitialCreate")]
     partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
