@@ -117,6 +117,27 @@ namespace Audiocat.Controllers
             return Ok(audioItem);
         }
 
+        // GET: api/Audio/Tags
+
+        [HttpGet]
+        [Route("searchQuery")]
+        public async Task<List<AudioItem>> GetTagsItem([FromQuery] string searchQuery)
+        {
+            var audio = from a in _context.AudioItem
+                        select a; //get all audio
+
+
+            if (!String.IsNullOrEmpty(searchQuery)) //make sure user gave a tag to search
+            {
+                // gets audio objects with exact matches for tags or contains the query in the title
+                audio = audio.Where(s => ( (s.Tag.ToLower().Equals(searchQuery.ToLower())) || (s.Title.ToLower().Contains(searchQuery.ToLower())) ));
+            }
+
+            var returned = await audio.ToListAsync(); //return the audio objects
+
+            return returned;
+        }
+
         private bool AudioItemExists(int id)
         {
             return _context.AudioItem.Any(e => e.Id == id);
