@@ -15,7 +15,7 @@ namespace Audiocat.Controllers
     {
         private readonly AudiocatContext _context;
 
-        public AudioController(AudiocatContext context)
+        public AudioController(AudiocatContext context, Microsoft.Extensions.Configuration.IConfiguration configuration)
         {
             _context = context;
         }
